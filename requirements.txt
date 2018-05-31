@@ -1,0 +1,6 @@
+Flask
+gensim
+xlrd
+flask_cors
+scikit-learn
+pandas
